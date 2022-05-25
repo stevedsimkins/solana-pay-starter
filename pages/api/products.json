@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "Solana Giants",
+    "price": "0.01",
+    "image_url": "https://pinnieblog.mypinata.cloud/ipfs/bafkreih2pybxyclhiol77r2hglrksqmzd2nymizhjrl5ksb6gxzjdmfx4a",
+    "description": "A collection of Giants!",
+    "filename": "images.zip",
+    "hash": "QmQGcrgVLnL44NYSNCSYXpVLvAmAEqH5E1BCJJPoHNyZ2Z"
+  }
+]

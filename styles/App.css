@@ -5,6 +5,11 @@
   overflow: hidden;
 }
 
+.logo {
+  width: 20%;
+  height: auto;
+}
+
 .container {
   height: 100%;
   display: flex;
